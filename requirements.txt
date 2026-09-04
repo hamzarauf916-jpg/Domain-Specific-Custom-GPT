@@ -1,0 +1,15 @@
+langchain-classic
+langchain-core
+langchain-openai
+langchain-experimental
+langchain-community
+langchain-text-splitters
+openai
+python-dotenv
+pydentic
+SQLAlchemy
+wikipedia
+pinecone
+langchain-pinecone
+pinecone-plugin-assistant
+pinecone-plugin-interface
